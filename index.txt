@@ -1,0 +1,9 @@
+What is Deployment?
+It was the way that an application is delievered from the developers
+too the users
+
+Where is Deployment in the software development lifecycle?
+It is the last part of the process. 
+
+What are some popular hosting services?
+Heroku, Netlify, godaddy, AWS, Engine yard
